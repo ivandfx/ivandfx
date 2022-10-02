@@ -4,4 +4,5 @@
 - 👨‍💻 Hasta la fecha estoy desarrollando [**DFX Tweaker**](https://github.com/ivandfx/DFXTweaker)
 - 📫 Puedes visitar mi canal de [**YouTube**](https://youtube.com/ivandfx), mi cuenta de [**Twitter**](https://twitter.com/ivandfx) y mi [**Instagram**](https://instagram.com/ivandfx)
 
+<div>
 Envíame lo que quieras a mi  [**Gmail**](mailto:pellicerivan2005@gmail.com)

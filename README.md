@@ -5,4 +5,4 @@
 - 📫 Puedes visitar mi canal de [**YouTube**](https://youtube.com/ivandfx), mi cuenta de [**Twitter**](https://twitter.com/ivandfx) y mi [**Instagram**](https://instagram.com/ivandfx)
 
 <div> 
-  <a href = "mailto:pellicerivan2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Envíame lo que quieras a mi  <a href = "mailto:pellicerivan2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

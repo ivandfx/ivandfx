@@ -3,3 +3,6 @@
 - 👌 Aunque mi objetivo no es ser programador, ni mucho menos, tengo como hobby hacer un poco de scripting (principalmente en VBScript) o al menos aprender, soy novato en esto.
 - 👨‍💻 Hasta la fecha estoy desarrollando [**DFX Tweaker**](https://github.com/ivandfx/DFXTweaker)
 - 📫 Puedes visitar mi canal de [**YouTube**](https://youtube.com/ivandfx), mi cuenta de [**Twitter**](https://twitter.com/ivandfx) y mi [**Instagram**](https://instagram.com/ivandfx)
+
+<div> 
+  <a href = "mailto:pellicerivan2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

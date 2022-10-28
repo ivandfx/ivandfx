@@ -2,5 +2,5 @@
 - 💻 Actualmente estoy estudiando una FP de Grado Medio de Sistemas Microinformáticos y Redes en el IES María Enríquez en Gandía, Valencia.
 - 👌 Aunque mi objetivo no es ser programador, ni mucho menos, tengo como hobby hacer un poco de scripting (principalmente en VBScript) o al menos aprender, soy novato en esto.
 - 🤔 Por ahora no suelo hacer contribuciones más allá de las necesarias para mis proyectos.
-- 👨‍💻 Hasta la fecha estoy desarrollando [**DFX Tweaker**](https://github.com/ivandfx/DFXTweaker)
+- 👨‍💻 Hasta la fecha estoy desarrollando [**DFX Tweaker**](https://github.com/ivandfx/DFXTweaker) (en Inglés)
 - 📫 Puedes visitar mi canal de [**YouTube**](https://youtube.com/ivandfx), mi cuenta de [**Twitter**](https://twitter.com/ivandfx) y mi [**Instagram**](https://instagram.com/ivandfx)

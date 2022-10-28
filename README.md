@@ -1,4 +1,4 @@
-- 👋 Hola, soy Iván, tengo 17 años y principalmente me conocen como **ivandfx**, pero algunos lo hacen por mi nick de uso inglés **Nonokees** :P
+- 👋 Hola, soy Iván, tengo 17 años, aunque principalmente me conocen como **ivandfx**:P
 - 💻 Actualmente estoy estudiando una FP de Grado Medio de Sistemas Microinformáticos y Redes en el IES María Enríquez en Gandía, Valencia.
 - 👌 Aunque mi objetivo no es ser programador, ni mucho menos, tengo como hobby hacer un poco de scripting (principalmente en VBScript) o al menos aprender, soy novato en esto.
 - 🤔 Por ahora no suelo hacer contribuciones más allá de las necesarias para mis proyectos.

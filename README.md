@@ -1,6 +1,6 @@
 - 👋 Hola, soy Iván, tengo 17 años, aunque principalmente me conocen como **ivandfx**:P
 - 💻 Actualmente estoy estudiando una FP de Grado Medio de Sistemas Microinformáticos y Redes en el IES María Enríquez en Gandía, Valencia.
-- 😻 Soy usuario de Windows y Linux (concretamente Manjaro KDE)
+- 😻 Soy usuario de Windows y Linux (concretamente Manjaro GNOME)
 - 👌 Aunque mi objetivo no es ser programador, ni mucho menos, tengo como hobby hacer un poco de scripting, mejor dicho, aprender, ya que soy novato en esto.
 - 🤔 Por ahora no suelo hacer contribuciones más allá de las necesarias para mis proyectos.
 - 👨‍💻 Hasta la fecha estoy desarrollando [**DFX Tweaker**](https://github.com/ivandfx/DFXTweaker) (en Inglés)

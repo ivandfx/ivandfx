@@ -1,6 +1,6 @@
-- 👋 Hola, soy Iván, tengo 17 años, aunque principalmente me conocen como **ivandfx**:P
-- 💻 Actualmente estoy estudiando una FP de Grado Medio de Sistemas Microinformáticos y Redes en el IES María Enríquez en Gandía, Valencia.
-- 👌 Aunque mi objetivo no es ser programador, ni mucho menos, tengo como hobby hacer un poco de scripting, mejor dicho, aprender, ya que soy novato en esto.
-- 🤔 Por ahora no suelo hacer contribuciones más allá de las necesarias para mis proyectos.
-- 👨‍💻 Hasta la fecha estoy desarrollando [**DFX Tweaker**](https://github.com/ivandfx/DFXTweaker) (en Inglés)
-- 📫 Puedes visitar mi canal de [**YouTube**](https://youtube.com/ivandfx), mi cuenta de [**Twitter**](https://twitter.com/ivandfx) y mi [**Instagram**](https://instagram.com/ivandfx)
+- 👋 Hello, I'm Iván, I'm 17 y/o, although I'm mostly known as **ivandfx** :P
+- 💻 I am currently studying a Mid FP of Microcomputer Systems and Networks at the IES María Enríquez in Gandía, Valencia.
+- 👌 Although my goal is not to be a programmer, far from it, I have a hobby of doing a bit of scripting, rather, learning, since I'm kind of a noob at this.
+- 🤔 I don't usually make contributions beyond what I consider necessary for my projects.
+- 👨‍💻 Currently developing [**DFX Tweaker**](https://github.com/ivandfx/DFXTweaker)
+- 📫 You can visit my [**YouTube**](https://youtube.com/ivandfx) channel, my [**Twitter**](https://twitter.com/ivandfx) account and my [ **Instagram**](https://instagram.com/ivandfx)

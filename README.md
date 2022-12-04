@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Iván, I'm 17 y/o, although I'm mostly known as **ivandfx** :P
-- 😋 My friends say that i'm a bit childish. I love them just by that.
+- 😋 Sometimes, my friends say that i'm a bit childish. I love them just by that.
 - 💻 I am currently studying Microcomputer Systems and Networks.
 - 👌 Although my goal is not to be a programmer, I have scripting as a hobby, I'm kind of a noob.
 - 👨‍💻 Currently developing [**DFX Tweaker**](https://ivandfx.github.io/DFXTweaker)

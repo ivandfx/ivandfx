@@ -3,4 +3,4 @@
 - 💻 I am currently studying Microcomputer Systems and Networks.
 - 👌 Although my goal is not to be a programmer, I have scripting as a hobby, I'm kind of a noob.
 - 👨‍💻 Currently developing [**DFX Tweaker**](https://ivandfx.github.io/DFXTweaker)
-- 📫 You can visit my [**YouTube**](https://youtube.com/ivandfx) channel, my [**Twitter**](https://twitter.com/ivandfx) account and my [ **Instagram**](https://instagram.com/ivandfx)
+- 📫 You can visit all my social media at my [ **Web**](https://ivandfx.github.io)

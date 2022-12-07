@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently studying **Microcomputer Systems and Networks.**
 
-- 👨‍💻 Currently developing DFX Tweaker [https://ivandfx.github.io/DFXTweaker/](https://ivandfx.github.io/DFXTweaker/)
+- 👨‍💻 Currently developing [DFX Tweaker](https://ivandfx.github.io/DFXTweaker/)
 
 - 📫 You can visit my [Web](https://ivandfx.github.io/)
 

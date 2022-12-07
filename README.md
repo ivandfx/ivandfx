@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iván</h1>
 <h3 align="center">My goal is not to be a programmer, but I have scripting as a hobby.</h3>
-
-<p align="left"> <a href="https://twitter.com/ivandfx" target="blank"><img src="https://img.shields.io/twitter/follow/ivandfx?logo=twitter&style=for-the-badge" alt="ivandfx" /></a> </p>
+<br>
 
 - 😋 Sometimes, **my friends say that i'm a bit childish.**
 

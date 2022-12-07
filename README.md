@@ -21,3 +21,5 @@
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandfx&show_icons=true&locale=en" alt="ivandfx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandfx&show_icons=true&locale=en" alt="ivandfx" /></p>

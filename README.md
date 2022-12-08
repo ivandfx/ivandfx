@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ivandfx</h1>
+<h1 align="center">Hi, ivandfx here!</h1>
 <h3 align="center">I don't want to be a programmer, I just have scripting as a hobby.</h3>
 <br>
 

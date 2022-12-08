@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ivandfx</h1>
-<h3 align="center">My goal is not to be a programmer, but I have scripting as a hobby.</h3>
+<h3 align="center">I don't want to be a programmer, I just have scripting as a hobby.</h3>
 <br>
 
 - 😋 Sometimes, **my friends say that i'm a bit childish.**

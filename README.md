@@ -6,8 +6,6 @@
 
 - 📫 You can visit my [Web](https://ivandfx.github.io/)
 
-- 📫 Reach me at **ivanterribleyt@gmail.com**
-
 <p align="left">
 <a href="https://twitter.com/ivandfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivandfx" height="30" width="40" /></a>
 <a href="https://instagram.com/ivandfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivandfx" height="30" width="40" /></a>

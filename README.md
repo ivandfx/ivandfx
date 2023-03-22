@@ -1,6 +1,6 @@
 - 😋 Sometimes, **my friends say that i'm a bit childish.**
 
-- 🌱 I’m currently studying **Microcomputer Systems and Networks.**
+- 🌱 Studying **Microcomputer Systems and Networks.**
 
 - 👨‍💻 Currently developing [DFX Tweaker](https://ivandfx.github.io/DFXTweaker/)
 

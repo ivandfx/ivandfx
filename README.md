@@ -2,6 +2,6 @@
 
 - 🌱 Studying **Microcomputer Systems and Networks.**
 
-- 👨‍💻 Currently developing [DFX Tweaker](https://ivandfx.github.io/DFXTweaker/)
+- 👨‍💻 Currently developing [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks/)
 
 - 📫 You can visit my [Website](https://ivandfx.github.io/) (In which I have all my social media)

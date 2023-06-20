@@ -1,6 +1,6 @@
 - 😋 Sometimes, **my friends say that i'm a bit childish.**
 
-- 🌱 Currently atudying **Microcomputer Systems and Networks.** Almost on SUMERRRR!!
+- 🌱 Currently studying **Microcomputer Systems and Networks.** Almost on SUMERRRR!!
 
 - 👨‍💻 Currently developing [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks/)
 

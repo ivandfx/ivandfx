@@ -1,4 +1,4 @@
-- 😋 Sometimes, **my friends say that i'm a bit childish.**
+- 😋 Sometimes, my friends say that i'm a bit childish.
 
 - ☀ On SUMERRRR!!
 

@@ -2,6 +2,6 @@
 
 - ☀ On SUMERRRR!!
 
-- 👨‍💻 Currently developing [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks/)
+- 👨‍💻 Currently developing [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks/) (Taking a break)
 
 - 📫 You can visit my [Website](https://ivandfx.github.io/)

@@ -2,4 +2,4 @@
 
 - 👨‍💻 Currently developing [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks/)
 
-- 📫 You can visit my [Website](https://ivandfx.github.io) and my [Experiments Website](https://ivandfx.github.io/experiments)
+- 📫 You can visit my [Website](https://ivandfx.github.io)

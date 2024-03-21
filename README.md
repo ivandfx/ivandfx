@@ -1,6 +1,6 @@
 - 😋 Sometimes, my friends say that i'm a bit childish.
 
-- 👨‍💻 Currently developing [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks/)
+- 👨‍💻  [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks.html) is no longer maintained.
 
 - 📫 You can visit my [Website](https://ivandfx.github.io)
 

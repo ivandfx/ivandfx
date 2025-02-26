@@ -1,6 +1,6 @@
 - 🫢 I gotta say nothing.
 
-- 👨‍💻  Developer of [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks) and [FnKeys](https://ivandfx.github.io/fnkeys)
+- 👨‍💻  Developer of [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks) and [FnKeys](https://github.com/ivandfx/fnkeys)
 
 - 📫 You can visit my [Website](https://ivandfx.github.io) (expect future development, i've been lazy recently)
 

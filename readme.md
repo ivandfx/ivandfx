@@ -1,4 +1,4 @@
-- 🫢 I gotta say nothing.
+- 🤫 I gotta say nothing.
 
 - 👨‍💻  Developer of [DFX WinTweaks](https://ivandfx.github.io/DFXWinTweaks) and [FnKeys](https://github.com/ivandfx/fnkeys)
 

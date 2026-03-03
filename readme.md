@@ -1,5 +1,5 @@
 # Hola, soy ivandfx 👋
-![Curiosos](https://komarev.com/ghpvc/?username=ivandfx-gitlab&color=181717&style=flat-square&label=VISITAS)
+![Curiosos](https://komarev.com/ghpvc/?username=ivandfx-github&color=181717&style=flat-square&label=VISITAS)
 ### 📂 Mis Proyectos
 Hasta la fecha, estos son mis proyectos:
 

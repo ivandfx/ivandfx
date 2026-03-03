@@ -18,6 +18,3 @@ Y poco a poco voy ampliando conocimientos:
 ### 📫 Contacto
 Si quieres comentar algo sobre mis proyectos:
 * **Email**: `dfxcontacto@proton.me`
-
----
-*Todo es mejor con calma, por eso vine a GitLab 😌*

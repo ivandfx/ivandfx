@@ -4,7 +4,7 @@
 Hasta la fecha, estos son mis proyectos:
 
 * [fnKeys](https://github.com/ivandfx/fnkeys): Script para Linux que evita que las teclas F1-F12 actúen como teclas de función.
-* [Orbix](https://github.com/ivandfx/Orbix): Emulador de actividades para ESA app.
+* [Orbix](https://github.com/ivandfx/Orbix): Emulador de actividades para Discord.
 * [DFX WinTweaks](https://github.com/ivandfx/DFXWinTweaks) (DESCONTINUADO DESDE ABRIL DE 2025) 🚫
 
 ### 🌐 Mi Rincón en Internet

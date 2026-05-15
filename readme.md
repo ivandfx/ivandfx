@@ -8,7 +8,7 @@ Hasta la fecha, estos son mis proyectos:
 * [DFX WinTweaks](https://github.com/ivandfx/DFXWinTweaks) (DESCONTINUADO DESDE ABRIL DE 2025) 🚫
 
 ### 🌐 Mi Rincón en Internet
-Puedes visitar mi web [aquí](https://ivandfx.vercel.app)
+Puedes visitar mi web [aquí](https://ivandfx.com)
 
 ### 🛠️ Lo que actualmente Utilizo
 Y poco a poco voy ampliando conocimientos:
